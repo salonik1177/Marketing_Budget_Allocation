@@ -202,7 +202,7 @@ These campaigns warrant further investigation into campaign controls, budget set
 
 # Hypothetical Budget Reallocation
 
-A scenario model was created to evaluate a hypothetical budget transfer between paid channels.
+The scenario model evaluates a hypothetical budget transfer within the paid-channel portfolio. The scenario baseline therefore represents the conversion value associated with the paid channels included in the reallocation analysis, rather than the overall conversion value across all channels.
 
 ### Scenario
 
@@ -246,7 +246,7 @@ Provides a high-level view of:
 - Total Spend
 - Total Conversion Value
 - Total Conversions
-- Overall ROAS
+- Blended ROAS
 - CPA
 - CTR
 - Channel performance
@@ -323,6 +323,19 @@ These campaigns should be reviewed for:
 The reallocation analysis demonstrates how historical performance can be used to evaluate potential budget changes before implementation.
 
 However, future scenarios should incorporate diminishing returns, channel capacity and incremental performance when those data become available.
+
+---
+
+# Limitations
+
+This analysis has several limitations:
+
+- ROAS is based on historical observed performance.
+- The budget reallocation scenario assumes constant historical ROAS.
+- The scenario does not model diminishing returns.
+- The analysis does not include channel capacity constraints.
+- Conversion value is used as the value metric; true profitability would require additional cost and margin information.
+- The scenario represents a hypothetical allocation exercise rather than an experimental result.
 
 ---
 
