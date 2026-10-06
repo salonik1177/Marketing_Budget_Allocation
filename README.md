@@ -252,7 +252,7 @@ Provides a high-level view of:
 - Channel performance
 - Monthly spend and conversion value trends
 
-![Executive Performance](dashboard/Executive Performance.png)
+![Executive Performance](dashboard/ExecutivePerformance.png)
 
 ---
 
@@ -271,7 +271,7 @@ The page includes:
 - Top campaigns by conversion value
 - Top 5 campaigns by absolute budget overrun
 
-![Campaign Performance](dashboard/campaign_performance.png)
+![Campaign Performance](dashboard/CampaignPerformance.png)
 
 ---
 
@@ -286,7 +286,7 @@ The page compares:
 - Budget transferred
 - Estimated change in conversion value
 
-![Budget Reallocation Scenario](dashboard/budget_reallocation.png)
+![Budget Reallocation Scenario](dashboard/BudgetScenario.png)
 
 ---
 
